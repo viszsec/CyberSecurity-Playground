@@ -108,6 +108,7 @@ Note: if you wanted outgoing or incoming traffic blocked so we added both dir=in
 21. [Codex Gigas malware DNA profiling](https://github.com/codexgigassys/codex-backend)
 22. [Memory Hunter](https://github.com/marcosd4h/memhunter)
 23. [RE the Emotet](https://cert.grnet.gr/en/blog/reverse-engineering-emotet/)
+
 **Reversing**
 1. [Dissected PE Breakthrough](http://web.cse.ohio-state.edu/~reeves.92/CSE2421/HelloWorldGoal.pdf)
 2. [Reversing for Beginners](https://beginners.re/)
